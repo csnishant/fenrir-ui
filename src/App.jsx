@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom"
 import Login from "./pages/Login"
 import Dashboard from "./pages/Dashboard"
-import ScanDetail from "./pages/ScanDetail"
+import ScanDetail from "./pages/ScanDeatail"
 
 function App() {
   return (
